@@ -73,6 +73,9 @@ required-features = ["cli-utils"]
 name = "parse_descriptor"
 [[example]]
 name = "address_validator"
+[[example]]
+name = "multisig"
+required-features = ["compiler"]
 
 [[example]]
 name = "miniscriptc"
